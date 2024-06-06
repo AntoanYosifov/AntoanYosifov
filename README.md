@@ -1,2 +1,7 @@
+# Hi there 👋
 
-# **You can reach me here:** [![Email](https://img.shields.io/badge/Email-tapaktapxaomi@gmail.com-blue?style=flat&logo=gmail)](mailto:johndoe@example.com)
+- 🔭 I’m currently studying Software Development at Software University (SoftUni).
+- 🌱 I’m currently working on my graduation project and enhancing my skills in Java, Spring Framework, and MySQL.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/antoan-yosifov-b1b52026b/) or by [email](mailto:tapaktapxaomi@gmail.com).
+
+Feel free to connect with me and check out my repositories!
