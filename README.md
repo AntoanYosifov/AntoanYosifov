@@ -2,7 +2,7 @@
 
 - 🎓 I’m currently studying Software Development at Software University (SoftUni).
 - 🔧 -> **Brain Dissecting**  is my first full-stack web application, designed for exploring and moderating scientific content. It's built with Java, Spring Boot, Thymeleaf, and Bootstrap.
-- DOAJ API Integration: Fetches and displays open-access scientific articles, enabling users to explore diverse research topics directly within the application. Check it out here:  [BrainDissecting](https://github.com/AntoanYosifov/BrainDissecting-SSR-version)
+- <a href="https://doaj.org/api/v3/docs" target="_blank">DOAJ API</a> Integration: Fetches and displays open-access scientific articles, enabling users to explore diverse research topics directly within the application. Check it out here:  [BrainDissecting](https://github.com/AntoanYosifov/BrainDissecting-SSR-version)
 
 
 ![Brain Dissecting](home-admin.png)
