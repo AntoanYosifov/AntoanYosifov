@@ -8,7 +8,7 @@
 
 The application integrates seamlessly with Google Cloud SQL for robust database management.
 
-***Brain Dissecting Website***:  [BrainDissecting](https://brain-dissecting-600325923365.europe-west1.run.app)
+***Brain Dissecting Website***:  [BrainDissecting](https://brain-dissecting-600325923365.europe-west1.run.app) (Admin credentials will be provided upon request to explore all features of the application.)
 
 **Watch the Demo Video**:  [Video Preview](https://youtu.be/e7vQ6qeueW4?si=4O9dF8BON2g5R24B)
     
