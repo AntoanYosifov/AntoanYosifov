@@ -5,7 +5,7 @@
 - <a href="https://doaj.org/api/v3/docs" target="_blank">DOAJ API</a> Integration: Fetches and displays open-access scientific articles, enabling users to explore diverse research topics directly within the application. Check it out here:
 
 📦 Deployment History:
-Originally deployed on Google Cloud. After the free tier expired, the project was successfully migrated and redeployed to Railway using Docker, demonstrating adaptability and cloud deployment skills.
+Originally deployed on Google Cloud. After the free tier expired, the project was successfully migrated and redeployed to Railway using Docker.
 
 ***Brain Dissecting Website***:  [BrainDissecting](braindissecting-ssr-version-production.up.railway.app) (Admin credentials will be provided upon request to explore all features of the application.)
 
