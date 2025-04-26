@@ -7,7 +7,8 @@
 📦 Deployment History:
 Originally deployed on Google Cloud. After the free tier expired, the project was successfully migrated and redeployed to Railway using Docker.
 
-***Brain Dissecting Website***:  [BrainDissecting](braindissecting-ssr-version-production.up.railway.app) (Admin credentials will be provided upon request to explore all features of the application.)
+***Brain Dissecting Website***:  [BrainDissecting App Live](https://braindissecting-ssr-version-production.up.railway.app)
+ (Admin credentials will be provided upon request to explore all features of the application.)
 
 **Watch the Demo Video**:  [Video Preview](https://youtu.be/e7vQ6qeueW4?si=4O9dF8BON2g5R24B)
     
