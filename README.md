@@ -17,6 +17,16 @@ Originally deployed on Google Cloud. After the free tier expired, the project wa
 
 ![Brain Dissecting](home-admin.png)
 
+### **JobPilot**
+**JobPilot** is an ongoing full-stack web application designed to help users track job applications and receive AI-powered resume feedback.
+
+- **Backend**: Built with Java, Spring Boot, and PostgreSQL, JobPilot uses JWT authentication to secure user data and provide role-based access.
+- **Job Postings**: Integrated with **Adzuna API** to fetch and display relevant job postings directly in the application.
+- **Frontend**: The frontend is developed with **HTML**, **CSS**, and **JavaScript**, with plans to implement **Angular** for advanced dynamic UI features.
+
+
+**[JobPilot GitHub Repository](https://github.com/AntoanYosifov/JobPilot)**
+
 - 📬 You can reach me on [LinkedIn](https://www.linkedin.com/in/antoan-yosifov-b1b52026b/) or by [email](mailto:antoan.yosifov23@gmail.com).
 
 Feel free to connect with me and check out my repositories!
