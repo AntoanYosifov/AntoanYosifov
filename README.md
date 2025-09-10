@@ -34,7 +34,7 @@ Users can update their profile name in real time
 
 ⚙️ Core Services – structured AuthenticationService & DestinationsService for clean, scalable logic
 
-🎨 Modern UI/UX – mobile-first, animated, and responsive design
+🎨 Modern UI/UX 
 
 🛠️ Tech Stack:
 
