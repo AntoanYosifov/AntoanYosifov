@@ -2,6 +2,8 @@
 
 - 🎓 I’m currently studying Software Development at Software University (SoftUni).
 
+---
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7afeb6c8-7146-4120-a25d-91ec553d6e22" />
 
 
@@ -46,7 +48,7 @@ Deployment: GitHub Pages
 
 **[TravelHub GitHub Repository](https://github.com/AntoanYosifov/travel-hub)**
 
-
+---
   
 - 🔧 -> **Brain Dissecting**  is my first full-stack web application, designed for exploring and moderating scientific content. It's built with Java, Spring Boot, Thymeleaf, and Bootstrap.
 - <a href="https://doaj.org/api/v3/docs" target="_blank">DOAJ API</a> Integration: Fetches and displays open-access scientific articles, enabling users to explore diverse research topics directly within the application. Check it out here:
@@ -64,7 +66,7 @@ Originally deployed on Google Cloud. After the free tier expired, the project wa
 
 ![Brain Dissecting](home-admin.png)
 
-
+---
 
 
 - 📬 You can reach me on [LinkedIn](https://www.linkedin.com/in/antoan-yosifov-b1b52026b/) or by [email](mailto:antoan.yosifov23@gmail.com).
