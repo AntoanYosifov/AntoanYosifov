@@ -4,7 +4,7 @@
   
 **More about me ->**  [Portfolio](https://antoanyosifov.github.io/my-portfolio/)
 
-### *** PROJECTS: *** ###
+### ** PROJECTS: ** ###
 
 ---
 
