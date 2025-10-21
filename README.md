@@ -13,10 +13,10 @@ IN DEVELOPMENT
 A small, end-to-end antiques e-commerce prototype: a Spring Boot REST API with short-lived JWT + refresh flow (auto-login after registration, guest-cart merge), and an Angular 20 SPA client built with standalone components, interceptors, and reactive state (Signals + RxJS). Planned: a currency microservice to show real-time EUR/USD prices.
 
 - **Client (Angular 20 SPA):**   
-  → [house-of-chaos-web](<link-to-client-repo>)
+  → [house-of-chaos-web](<https://github.com/AntoanYosifov/house-of-chaos-web>)
 
 - **API (Spring Boot 3):**  
-  → [house-of-chaos-main](<link-to-backend-repo>)
+  → [house-of-chaos-main](<https://github.com/AntoanYosifov/house-of-chaos-main>)
 
 <img width="1920" height="1080" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/d1724086-1f8f-4759-8250-94029e4aab21" />
 
