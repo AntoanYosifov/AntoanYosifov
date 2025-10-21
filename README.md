@@ -12,39 +12,17 @@
 ### **TravelHub**
 **TravelHub** is a dynamic web application where users can explore, share, and manage travel destinations in real time.
 
-✨ It demonstrates how Angular’s reactivity and Firebase’s real-time capabilities combine to deliver a seamless, interactive experience.
+Real-time, collaborative SPA: Angular + Firebase (Firestore/Auth) for instant updates.
 
-🔧 Features:
+Reactive UX: Angular Signals + RxJS power live likes and lists without reloads.
 
-🗺️ Destinations Board – browse destinations with responsive cards & animations
+Social mechanics: per-user single like rule, and a personal Want-to-Visit collection.
 
-❤️ Real-time Likes – powered by Angular Signals + RxJS Observables, counts update instantly across users
+Auth & profiles: Firebase Auth with real-time profile edits.
 
-🔒 One user can like a given destination only once
+Ownership & safety: only authors can edit/delete their destinations; route guards protect guest/auth areas.
 
-📌 Want-to-Visit Collection – save destinations to a personal list, fully real time
-
-👤 Authentication & Profiles – Firebase Auth with profile management
-
-Users can update their profile name in real time
-
-✏️ Ownership Logic – only the author of a destination can edit its description or delete it
-
-📝 Reactive Forms & Validation – user-friendly forms with instant feedback
-
-🔒 Route Guards – protect guest-only and auth-only routes with reactive streams
-
-⚙️ Core Services – structured AuthenticationService & DestinationsService for clean, scalable logic
-
-🎨 Modern UI/UX 
-
-🛠️ Tech Stack:
-
-Frontend: Angular, TypeScript, RxJS, Signals, HTML, CSS
-
-Backend/DB: Firebase (Firestore & Auth)
-
-Deployment: GitHub Pages
+Clean architecture: focused AuthenticationService and DestinationsService, Reactive Forms with validation.
 
 ***TravelHub Live***:  [TravelHub App Live](https://antoanyosifov.github.io/travel-hub/)
 
