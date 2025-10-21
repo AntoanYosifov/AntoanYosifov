@@ -10,6 +10,7 @@
 
 
 ### **TravelHub**
+
 **TravelHub** is a dynamic web application where users can explore, share, and manage travel destinations in real time.
 
 Real-time, collaborative SPA: Angular + Firebase (Firestore/Auth) for instant updates.
