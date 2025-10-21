@@ -38,9 +38,9 @@ Ownership & safety: only authors can edit/delete their destinations; route guard
 
 Clean architecture: focused AuthenticationService and DestinationsService, Reactive Forms with validation.
 
-***TravelHub Live***:  [TravelHub App Live](https://antoanyosifov.github.io/travel-hub/)
+- ***TravelHub Live***:  [TravelHub App Live](https://antoanyosifov.github.io/travel-hub/)
 
-**[TravelHub GitHub Repository](https://github.com/AntoanYosifov/travel-hub)**
+- **[TravelHub GitHub Repository](https://github.com/AntoanYosifov/travel-hub)**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7afeb6c8-7146-4120-a25d-91ec553d6e22" />
 
