@@ -6,6 +6,8 @@
 
 ### PROJECTS: ###
 ---
+<img width="1920" height="1080" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/d1724086-1f8f-4759-8250-94029e4aab21" />
+
 ### House of Chaos — project duo
 
 IN DEVELOPMENT
@@ -18,9 +20,9 @@ End-to-end antiques e-commerce prototype: a Spring Boot REST API with short-live
 - **API (Spring Boot 3):**  
   → [house-of-chaos-main](<https://github.com/AntoanYosifov/house-of-chaos-main>)
 
-<img width="1920" height="1080" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/d1724086-1f8f-4759-8250-94029e4aab21" />
-
 ---
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7afeb6c8-7146-4120-a25d-91ec553d6e22" />
 
 ### **TravelHub**
 
@@ -42,9 +44,9 @@ Clean architecture: focused AuthenticationService and DestinationsService, React
 
 - **[TravelHub GitHub Repository](https://github.com/AntoanYosifov/travel-hub)**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7afeb6c8-7146-4120-a25d-91ec553d6e22" />
-
 ---
+
+![Brain Dissecting](home-admin.png)
   
 - 🔧 -> **Brain Dissecting**  is my first full-stack web application, designed for exploring and moderating scientific content. It's built with Java, Spring Boot, Thymeleaf, and Bootstrap.
 - <a href="https://doaj.org/api/v3/docs" target="_blank">DOAJ API</a> Integration: Fetches and displays open-access scientific articles, enabling users to explore diverse research topics directly within the application. Check it out here:
@@ -58,9 +60,6 @@ Originally deployed on Google Cloud. After the free tier expired, the project wa
 **Watch the Demo Video**:  [Video Preview](https://youtu.be/e7vQ6qeueW4?si=4O9dF8BON2g5R24B)
     
 [BrainDissecting Repository](https://github.com/AntoanYosifov/BrainDissecting-SSR-version)
-
-
-![Brain Dissecting](home-admin.png)
 
 ---
 
