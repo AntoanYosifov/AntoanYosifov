@@ -14,11 +14,14 @@ IN DEVELOPMENT
 
 End-to-end antiques e-commerce prototype: a Spring Boot REST API with short-lived JWT + refresh flow, and an Angular 20 SPA client built with standalone components, interceptors, and reactive state (Signals + RxJS).
 
-- **Client (Angular 20 SPA):**   
+- **Frontend (Angular 20 SPA):**   
   → [house-of-chaos-web](<https://github.com/AntoanYosifov/house-of-chaos-web>)
 
-- **API (Spring Boot 3):**  
+- **Main Backend RestAPI application (Spring Boot 3):**  
   → [house-of-chaos-main](<https://github.com/AntoanYosifov/house-of-chaos-main>)
+
+- **Review Microservice RestAPI application (Spring Boot 3):**  
+  → [review-microservice](<https://github.com/AntoanYosifov/review-microservice>)
 
 ---
 
