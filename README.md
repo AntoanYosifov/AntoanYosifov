@@ -8,11 +8,11 @@
 ---
 <img width="1920" height="1080" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/d1724086-1f8f-4759-8250-94029e4aab21" />
 
-### House of Chaos — project duo
+### House of Chaos 
 
 IN DEVELOPMENT
 
-End-to-end antiques e-commerce prototype: a Spring Boot REST API with short-lived JWT + refresh flow, and an Angular 20 SPA client built with standalone components, interceptors, and reactive state (Signals + RxJS).
+End-to-end antiques e-commerce prototype: a Spring Boot REST API with short-lived JWT + refresh flow, a separate Spring Boot review microservice, and an Angular 20 SPA client built with standalone components, interceptors, and reactive state (Signals + RxJS).
 
 - **Frontend (Angular 20 SPA):**   
   → [house-of-chaos-web](<https://github.com/AntoanYosifov/house-of-chaos-web>)
