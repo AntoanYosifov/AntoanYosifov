@@ -6,7 +6,8 @@
 
 ### PROJECTS: ###
 ---
-<img width="1920" height="1080" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/d1724086-1f8f-4759-8250-94029e4aab21" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0dfbc9d3-15ad-445b-a4c4-f9d8b469e2b0" />
+
 
 ### House of Chaos 
 
