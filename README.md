@@ -11,7 +11,7 @@
 
 ### House of Chaos 
 
-IN DEVELOPMENT
+IN PROGRESS
 
 End-to-end antiques e-commerce prototype: a Spring Boot REST API with short-lived JWT + refresh flow, a separate Spring Boot review microservice, and an Angular 20 SPA client built with standalone components, interceptors, and reactive state (Signals + RxJS).
 
