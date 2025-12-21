@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🎓 I’m currently studying Software Development at Software University (SoftUni).
+- 🎓 Software University (SoftUni) Graduate.
   
 **More about me ->**  [Portfolio](https://antoanyosifov.github.io/my-portfolio/)
 
