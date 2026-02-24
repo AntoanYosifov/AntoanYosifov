@@ -53,7 +53,7 @@ Clean architecture: focused AuthenticationService and DestinationsService, React
 ![Brain Dissecting](home-admin.png)
   
 - 🔧 -> **Brain Dissecting**  is my first web application, designed for exploring and moderating scientific content. It's built with Java, Spring Boot, Thymeleaf, and Bootstrap.
-- <a href="https://doaj.org/api/v3/docs" target="_blank">DOAJ API</a> Integration: Fetches and displays open-access scientific articles, enabling users to explore diverse research topics directly within the application. Check it out here:
+- <a href="https://doaj.org/api/v3/docs" target="_blank">DOAJ API</a> Integration: Fetches and displays open-access scientific articles, enabling users to explore diverse research topics directly within the application.
 
 📦 Deployment History:
 Originally deployed on Google Cloud. After the free tier expired, the project was successfully migrated and redeployed to Railway using Docker.
