@@ -17,7 +17,7 @@ components, HTTP interceptors, Signals + RxJS).
 Deployed on AWS — EC2 + RDS backend behind nginx with Let's Encrypt HTTPS, S3 + CloudFront frontend, Cloudflare DNS and DDoS protection, secrets in SSM Parameter Store, and keyless GitHub Actions CD via   
 IAM OIDC. Includes Docker Compose local orchestration, Cloudinary media pipeline, and resilient auth UX with automatic token refresh/retry flow.
 
-**Live:** [houseofchaoss.com](<https://haouseofchaoss.com>)
+**Live:** [houseofchaoss.com](<https://houseofchaoss.com>)
 
 
 - **Frontend (Angular 20 SPA):**   
