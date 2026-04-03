@@ -11,9 +11,14 @@
 
 ### House of Chaos 
 
-IN PROGRESS
+End-to-end antiques e-commerce system deployed to production on AWS. Spring Boot REST API (JWT access + rotating refresh tokens), dedicated Spring Boot reviews microservice, and Angular SPA (standalone    
+components, HTTP interceptors, Signals + RxJS).
+                                                                                                                                                                                                               
+Deployed on AWS — EC2 + RDS backend behind nginx with Let's Encrypt HTTPS, S3 + CloudFront frontend, Cloudflare DNS and DDoS protection, secrets in SSM Parameter Store, and keyless GitHub Actions CD via   
+IAM OIDC. Includes Docker Compose local orchestration, Cloudinary media pipeline, and resilient auth UX with automatic token refresh/retry flow.
 
-End-to-end antiques e-commerce system: Spring Boot REST API (JWT access + rotating refresh tokens), dedicated Spring Boot reviews microservice, and Angular 20 SPA (standalone components, HTTP interceptors, Signals + RxJS). Includes Docker Compose local orchestration (API + MySQL), Cloudinary-based media pipeline, and resilient auth UX with automatic token refresh/retry flow.
+**Live:** [houseofchaoss.com](<https://haouseofchaoss.com>)
+
 
 - **Frontend (Angular 20 SPA):**   
   → [house-of-chaos-web](<https://github.com/AntoanYosifov/house-of-chaos-web>)
