@@ -11,7 +11,7 @@
 
 ### House of Chaos 
 
-End-to-end antiques e-commerce system deployed to production on AWS. Spring Boot REST API (JWT access + rotating refresh tokens), dedicated Spring Boot reviews microservice, and Angular SPA (standalone    
+End-to-end antiques e-commerce system deployed to production on AWS. Spring Boot REST API (JWT access + rotating refresh tokens, Redis-backed per-IP rate limiting on auth endpoints), dedicated Spring Boot reviews microservice, and Angular SPA (standalone    
 components, HTTP interceptors, Signals + RxJS).
                                                                                                                                                                                                                
 Deployed on AWS — EC2 + RDS backend behind nginx with Let's Encrypt HTTPS, S3 + CloudFront frontend, Cloudflare DNS and DDoS protection, secrets in SSM Parameter Store, and keyless GitHub Actions CD via   
