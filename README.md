@@ -1,10 +1,11 @@
-# Hi there 👋
-
 - 🎓 Software University (SoftUni) Graduate.
   
-**More about me ->**  [Portfolio](https://antoanyosifov.github.io/my-portfolio/)
+**More about me ->**  [https://antoanyosifov.com](https://antoanyosifov.github.io/my-portfolio/)
 
-### PROJECTS: ###
+So I build things.
+
+The ### THINGS: ### 
+
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0dfbc9d3-15ad-445b-a4c4-f9d8b469e2b0" />
 
